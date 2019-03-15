@@ -29,7 +29,7 @@
 			"file": "src/tweets/models.py",
 			"settings":
 			{
-				"buffer_size": 676,
+				"buffer_size": 651,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -47,7 +47,16 @@
 			"file": "src/tweets/views.py",
 			"settings":
 			{
-				"buffer_size": 1453,
+				"buffer_size": 1866,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tweets/mixins.py",
+			"settings":
+			{
+				"buffer_size": 824,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -56,7 +65,7 @@
 			"file": "src/tweets/forms.py",
 			"settings":
 			{
-				"buffer_size": 338,
+				"buffer_size": 339,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -65,7 +74,16 @@
 			"file": "src/tweets/templates/tweets/tweet_list.html",
 			"settings":
 			{
-				"buffer_size": 186,
+				"buffer_size": 307,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tweets/templates/tweets/search_form.html",
+			"settings":
+			{
+				"buffer_size": 179,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -92,7 +110,7 @@
 			"file": "src/tweets/templates/tweets/list_view.html",
 			"settings":
 			{
-				"buffer_size": 144,
+				"buffer_size": 146,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -101,7 +119,16 @@
 			"file": "src/tweets/templates/tweets/create_view.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 65,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tweets/templates/tweets/form.html",
+			"settings":
+			{
+				"buffer_size": 143,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -110,7 +137,7 @@
 			"file": "src/tweets/templates/tweets/delete_confirm.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 166,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -119,7 +146,7 @@
 			"file": "src/tweets/templates/tweets/update_view.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 66,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -128,7 +155,7 @@
 			"file": "src/tweets/urls.py",
 			"settings":
 			{
-				"buffer_size": 442,
+				"buffer_size": 613,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -137,16 +164,8 @@
 			"file": "src/tweets/admin.py",
 			"settings":
 			{
-				"buffer_size": 296,
+				"buffer_size": 295,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/tweets/apps.py",
-			"settings":
-			{
-				"buffer_size": 87,
 				"line_ending": "Unix"
 			}
 		},
@@ -154,7 +173,7 @@
 			"file": "src/tweetme/urls.py",
 			"settings":
 			{
-				"buffer_size": 1056,
+				"buffer_size": 1087,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -165,6 +184,14 @@
 			{
 				"buffer_size": 96,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tweetme/wsgi.py",
+			"settings":
+			{
+				"buffer_size": 392,
 				"line_ending": "Unix"
 			}
 		},
@@ -230,7 +257,10 @@
 	[
 		"/home/mayank/Dev/tweetme",
 		"/home/mayank/Dev/tweetme/src",
-		"/home/mayank/Dev/tweetme/src/tweets"
+		"/home/mayank/Dev/tweetme/src/tweetme",
+		"/home/mayank/Dev/tweetme/src/tweets",
+		"/home/mayank/Dev/tweetme/src/tweets/templates",
+		"/home/mayank/Dev/tweetme/src/tweets/templates/tweets"
 	],
 	"file_history":
 	[
@@ -238,7 +268,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -252,6 +282,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"update"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -296,10 +327,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 346.0,
+						"translation.y": 461.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
@@ -329,7 +360,7 @@
 						"translation.y": 90.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -338,15 +369,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 676,
+						"buffer_size": 651,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								182,
-								182
+								599,
+								599
 							]
 						],
 						"settings":
@@ -354,10 +385,10 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 135.0,
+						"translation.y": 221.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
@@ -385,7 +416,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
@@ -394,15 +425,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1453,
+						"buffer_size": 1866,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								317,
-								317
+								1433,
+								1433
 							]
 						],
 						"settings":
@@ -410,7 +441,7 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 906.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -418,19 +449,47 @@
 				},
 				{
 					"buffer": 5,
-					"file": "src/tweets/forms.py",
+					"file": "src/tweets/mixins.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 338,
+						"buffer_size": 824,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								322,
-								322
+								794,
+								794
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 341.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/tweets/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
 							]
 						],
 						"settings":
@@ -441,24 +500,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "src/tweets/templates/tweets/tweet_list.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 186,
+						"buffer_size": 307,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								170,
-								170
+								46,
+								46
 							]
 						],
 						"settings":
@@ -469,11 +528,39 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
+					"file": "src/tweets/templates/tweets/search_form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
 					"file": "src/tweets/templates/tweets/tweet_detail.html",
 					"semi_transient": false,
 					"settings":
@@ -497,11 +584,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 10,
 					"file": "src/tweets/templates/tweets/detail_view.html",
 					"semi_transient": false,
 					"settings":
@@ -525,72 +612,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "src/tweets/templates/tweets/list_view.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 144,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								144,
-								144
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "src/tweets/templates/tweets/create_view.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
 					"buffer": 11,
-					"file": "src/tweets/templates/tweets/delete_confirm.html",
+					"file": "src/tweets/templates/tweets/list_view.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 146,
 						"regions":
 						{
 						},
@@ -606,27 +637,27 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 12,
-					"file": "src/tweets/templates/tweets/update_view.html",
+					"file": "src/tweets/templates/tweets/create_view.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 65,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								65,
+								65
 							]
 						],
 						"settings":
@@ -642,47 +673,103 @@
 				},
 				{
 					"buffer": 13,
-					"file": "src/tweets/urls.py",
+					"file": "src/tweets/templates/tweets/form.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 442,
+						"buffer_size": 143,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								259,
-								259
+								128,
+								128
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
 					"buffer": 14,
-					"file": "src/tweets/admin.py",
+					"file": "src/tweets/templates/tweets/delete_confirm.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 296,
+						"buffer_size": 166,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								232,
-								232
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "src/tweets/templates/tweets/update_view.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "src/tweets/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								609,
+								609
 							]
 						],
 						"settings":
@@ -693,16 +780,100 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
-					"file": "src/tweets/apps.py",
+					"buffer": 17,
+					"file": "src/tweets/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "src/tweetme/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1007,
+								1007
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 561.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "src/tweetme/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "src/tweetme/wsgi.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 87,
+						"buffer_size": 392,
 						"regions":
 						{
 						},
@@ -721,67 +892,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
-					"file": "src/tweetme/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1056,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								673,
-								673
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 282.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "src/tweetme/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 96,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								55,
-								55
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
+					"buffer": 21,
 					"file": "src/tweetme/settings/production.py",
 					"semi_transient": false,
 					"settings":
@@ -805,14 +920,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 288.0,
-						"translation.y": 180.0,
+						"translation.y": 240.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 22,
 					"file": "src/tweetme/settings/base.py",
 					"semi_transient": false,
 					"settings":
@@ -835,14 +950,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 264.0,
-						"translation.y": 45.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 23,
 					"file": "src/tweetme/settings/__init__.py",
 					"semi_transient": false,
 					"settings":
@@ -866,7 +981,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 21,
 					"type": "text"
 				}
 			]
@@ -874,7 +989,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -911,7 +1026,7 @@
 	"project": "tweetme.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -949,7 +1064,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 204.0,
+	"side_bar_width": 203.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
